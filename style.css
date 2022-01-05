@@ -1,0 +1,249 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', 'Cormorant', serif, 'Lato', sans-serif;
+}
+
+#header{
+   margin: 0px 50px;
+   display: flex;
+}
+
+.container{
+    width: 50%;
+    padding-right: 5%;
+}
+
+.container img{
+    width: 100%;
+    height: 100vh;
+    margin-top: 30px;
+    margin-right: -30px;
+}
+.nav{
+    margin-left: -50px
+    
+}
+
+nav ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+    
+    
+    
+}
+nav ul li a{
+    text-decoration: none;
+    color: #444444;
+    font-size: 15px;
+    font-family: 'lato';
+    text-align: left;
+    
+
+    
+}
+
+#h1{
+    font-size: 56px;
+    margin-top: 164px;
+    margin-bottom: -40px;
+    line-gap-override: 10px;
+    color: #222;
+}
+
+h2{
+    font-size: 56px;
+    color: #88BBBC;
+    margin-bottom: -20px;
+}
+span{
+    font-family: 'Cormorant';
+    font-style: italic;
+    font-size: 64px;
+    color: #222;
+}
+h4{
+    font-size: 24px;
+    line-height: 32px;
+    font-family: 'lato';
+    font-style: normal;
+    color: #222;
+    letter-spacing: 1px;
+}
+
+p{
+    font-size: 18px;
+    line-height: 26px;
+    font-family: 'lato';
+    font-style: normal;
+    color: #626262;
+}
+
+button{
+    margin-top: 32px;
+    padding: 20px 40px;
+    cursor: pointer;
+    border-radius: 2px;
+    
+    
+
+}
+ .common-btn{
+   
+    border: 1px solid #868585;
+}
+
+ .common-btn:hover{
+    background: cadetblue;
+    color: #fff;
+    
+    
+}
+
+button a{
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 2px;
+    color: #444;
+   
+}
+
+
+
+
+/*Case Studies*/
+
+#case-study{
+    margin: 0px 50px;
+    margin-top: 96px;
+}
+/*Text-part-Top*/
+#flex-text{
+    display: flex;
+}
+.container-box{
+    width: 50%;
+}
+
+.container-box button{
+float: right;
+}
+
+#latest{
+    font-family: 'lato';
+    letter-spacing: 2px;
+    color: #88BBBC;
+}
+
+#case{
+    font-size: 56px;
+    margin-top: -20px;
+}
+
+/*item part bottom*/
+#flex-item{
+    display: flex;
+    margin-top: 40px;
+}
+
+.container-box1{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.container-box1 img{
+    width: 100%;
+    margin-left: -60px;
+}
+
+#number{
+    font-size: 48px;
+    font-weight: 300;
+    font-family: 'lato';
+    color: #88BBBC;
+}
+
+#travel-text{
+    margin-top: 50px;
+}
+
+#fashion-text{
+    margin-top: 50px;
+}
+
+#agency-text{
+    margin-top: 64px;
+}
+
+
+
+#text-big{
+    font-size: 32px;
+    font-family: 'Poppins';
+}
+#fashion-website{
+    margin-top: 96px;
+
+}
+#minimal-agency{
+    margin: 0px 50px;
+    margin-top: 96px;
+}
+
+#valuable-client{
+    background-color: #88BBBC;
+    padding: 64px 50px;
+    text-align: center;
+    margin-top: 96px;
+}
+
+#valuable-client img{
+    margin-top: 40px;
+}
+
+#par-text{
+    color: #fff;
+}
+#love-text{
+    font-size: 16px;
+    font-family: 'lato';
+    color: #fff;
+    letter-spacing: 4px;
+}
+
+#valuable-text{
+    font-size: 56px;
+    margin-top: -10px;
+    color: #fff;
+    margin-bottom: -10px;
+}
+
+#work-together{
+    margin: 96px 50px;
+    text-align: center;
+}
+
+#love-text1{
+    font-size: 16px;
+    font-family: 'lato';
+    color: #88BBBC;
+    letter-spacing: 4px;
+
+}
+#valuable-text2{
+    font-size: 56px;
+    margin-top: -10px;
+    color: #222;
+    margin-bottom: -10px;
+}
+
+#par-text3{
+    color: #444444;
+    margin-top: 40px;
+
+}
+
+.footer{
+    text-align: center;
+}
